@@ -7,7 +7,7 @@ To be used with VSCode dev containers.
 Clone this repo to your local machine and change the basic settings.
 
 ```bash
-git clone <this-repo> <your_folder>
+git clone git@github.com:Bokomoko/deno2.0-devcontainer.git <your_folder>
 ```
 
 After creating the folder, cd into it and open with vscode
